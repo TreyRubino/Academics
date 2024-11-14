@@ -1,0 +1,4 @@
+A PHP development web sever can be started in this directory. The command is
+php -S localhost:<port>
+where port should be an integer between 10000 and 65536. This will serve the
+files in this directory.
